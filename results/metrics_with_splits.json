@@ -1,0 +1,69 @@
+{
+  "test_images": 480,
+  "accuracy": 0.99375,
+  "precision_rotten": 0.99581589958159,
+  "recall_rotten": 0.9916666666666667,
+  "f1_rotten": 0.9937369519832986,
+  "roc_auc": 0.9996527777777778,
+  "confusion_matrix": [
+    [
+      239,
+      1
+    ],
+    [
+      2,
+      238
+    ]
+  ],
+  "per_fruit": {
+    "apple": {
+      "test_images": 60,
+      "accuracy": 1.0
+    },
+    "banana": {
+      "test_images": 60,
+      "accuracy": 1.0
+    },
+    "grape": {
+      "test_images": 60,
+      "accuracy": 0.9833
+    },
+    "guava": {
+      "test_images": 60,
+      "accuracy": 0.9833
+    },
+    "jujube": {
+      "test_images": 60,
+      "accuracy": 0.9833
+    },
+    "orange": {
+      "test_images": 60,
+      "accuracy": 1.0
+    },
+    "pomegranate": {
+      "test_images": 60,
+      "accuracy": 1.0
+    },
+    "strawberry": {
+      "test_images": 60,
+      "accuracy": 1.0
+    }
+  },
+  "split_counts": {
+    "train": {
+      "images": 2240,
+      "fresh": 1120,
+      "rotten": 1120
+    },
+    "validation": {
+      "images": 480,
+      "fresh": 240,
+      "rotten": 240
+    },
+    "test": {
+      "images": 480,
+      "fresh": 240,
+      "rotten": 240
+    }
+  }
+}

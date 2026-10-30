@@ -1,0 +1,9 @@
+fruit,accuracy,n_test_images
+apple,1.0,60
+banana,1.0,60
+grape,0.9833,60
+guava,0.9833,60
+jujube,0.9833,60
+orange,1.0,60
+pomegranate,1.0,60
+strawberry,1.0,60

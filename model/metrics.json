@@ -1,0 +1,18 @@
+{
+  "test_images": 480,
+  "accuracy": 0.99375,
+  "precision_rotten": 0.99581589958159,
+  "recall_rotten": 0.9916666666666667,
+  "f1_rotten": 0.9937369519832986,
+  "roc_auc": 0.9996527777777778,
+  "confusion_matrix": [
+    [
+      239,
+      1
+    ],
+    [
+      2,
+      238
+    ]
+  ]
+}
